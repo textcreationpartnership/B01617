@@ -1,0 +1,2168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some select psalms of David turn'd a-new into metre, and suited to the common tunes sung in parish churches: with a divine Pindarique ode on the redemption of man. / By Charles Wormington, Gent.</title>
+            <title>Bible. O.T. Psalms. English. 1697.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 61 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01617</idno>
+            <idno type="STC">Wing B2604C</idno>
+            <idno type="STC">ESTC R172924</idno>
+            <idno type="EEBO-CITATION">52614519</idno>
+            <idno type="OCLC">ocm 52614519</idno>
+            <idno type="VID">175760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175760)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2749:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some select psalms of David turn'd a-new into metre, and suited to the common tunes sung in parish churches: with a divine Pindarique ode on the redemption of man. / By Charles Wormington, Gent.</title>
+                  <title>Bible. O.T. Psalms. English. 1697.</title>
+                  <author>Wormington, Charles, fl. 1697.</author>
+               </titleStmt>
+               <extent>[8], 42, [2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Gunn ...</publisher>
+                  <pubPlace>Dublin,</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A divine Pindarique ode" has special t.p. and separate pagination.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Psalters --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:175760:1" rendition="simple:additions"/>
+                  <pb facs="tcp:175760:2"/>
+                  <p>
+                     <pb facs="tcp:175760:2"/>
+                     <pb facs="tcp:175760:3"/>
+                     <pb facs="tcp:175760:3"/> SOME Select PSALMS OF DAVID Turn'd a-new into <hi>Metre,</hi> And Suited to the common Tunes Sung in Pariſh-Churches:</p>
+                  <p>With a Divine <hi>Pindarique</hi> Ode On the Redemption of Man.</p>
+                  <p>By <hi>Charles Wormington,</hi> Gent.</p>
+                  <p>
+                     <hi>Dublin,</hi> Printed for <hi>Matthew Gunn</hi> at the <hi>Bible</hi> and <hi>Crown</hi> near <hi>Eſſex-Gate,</hi> 1697.</p>
+                  <pb facs="tcp:175760:4"/>
+               </div>
+               <div type="author_to_the_reader">
+                  <pb facs="tcp:175760:4"/>
+                  <head>TO THE READER.</head>
+                  <lg>
+                     <l>AMidſt the bold <hi>Attempts</hi> of thoſe who try</l>
+                     <l>To give the <hi>Pſalms</hi> new Turns of Poetry</l>
+                     <l>I, in the <hi>Liſts,</hi> thus venture to ruſh in;</l>
+                     <l>Not that I think I ſhall the Lawrel win;</l>
+                     <l>Or, in the <hi>Front</hi> with others, Equal ſhew,</l>
+                     <l>(For ah! too well my want of Skill I know)</l>
+                     <l>But with the <hi>Brave,</hi> to manifeſt my <hi>Zeal,</hi>
+                     </l>
+                     <l>And beſt <hi>Affections</hi> for <hi>Wit's Common-Weal;</hi>
+                     </l>
+                     <l>T' oppoſe at once my <hi>Pen,</hi> and tempt my <hi>Fate,</hi>
+                     </l>
+                     <l>With Learned <hi>Patrick, Stearne,</hi> and artful <hi>Tate,</hi>
+                     </l>
+                     <l>Againſt th' united Force of thoſe who try</l>
+                     <l>T' invade its <hi>Province</hi> with looſe <hi>Ribauldry.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Where, while ſome <hi>lofty,</hi> ſome too <hi>humble</hi> be,</l>
+                     <l>The middle Flight ſhall be obſerv'd by me,</l>
+                     <l>Leſt ſhould the <hi>Fancy,</hi> ſoaring it too high,</l>
+                     <l>Be undiſcern'd by every Vulgar Eye;</l>
+                     <l>Or, by too feebly ſtriking on the Ground,</l>
+                     <l>In it's bright native <hi>Beauties</hi> ſully'd found.</l>
+                  </lg>
+                  <lg>
+                     <l>To raiſe <hi>Devotion</hi> then ſhall be my Aim;</l>
+                     <l>Nor can I want <hi>Expreſſion</hi> from the <hi>Theme,</hi>
+                     </l>
+                     <l>Whereby each treated <hi>Palate</hi> may be pleas'd;</l>
+                     <l>If not too dull, or yet too nicely rais'd;</l>
+                     <l>Nor grosſly prejudic'd, by taſting long</l>
+                     <l>The fulſome Mixtures of <hi>Lampoon</hi> and <hi>Song.</hi>
+                     </l>
+                     <pb facs="tcp:175760:5"/>
+                     <l>For how alas! are all Things now cry'd down,</l>
+                     <l>That are not luſcious made to ſuit the Town;</l>
+                     <l>Where no looſe ſmutty <hi>Jeſts</hi> in view are plac'd,</l>
+                     <l>To quicken and monopolize the <hi>Taſte:</hi>
+                     </l>
+                     <l>For (like the French) tho ne're ſo rich or new,</l>
+                     <l>'Tis not allow'd a Feaſt without <hi>Ragoo.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Yet in each <hi>Draught</hi> ſhould I ſo fail of Art,</l>
+                     <l>As not t' affect the <hi>Soul,</hi> engage the <hi>Heart;</hi>
+                     </l>
+                     <l>To mount them Heaven-ward, with Devotion fir'd,</l>
+                     <l>From whence our Royal <hi>Prophet</hi> was inſpir'd,</l>
+                     <l>(As well I may ſuſpect my ſelf I ſhall)</l>
+                     <l>Who can keep up to the <hi>Original?</hi>
+                     </l>
+                     <l>For 'tis a <hi>Work</hi> ſo exquiſitly fine,</l>
+                     <l>None e're can reach it but a <hi>Pen</hi> Divine.</l>
+                  </lg>
+                  <lg>
+                     <l>Some <hi>Paraphraſe</hi> I'll uſe, but ſuch as may</l>
+                     <l>Not run too far the Saored <hi>Text</hi> aſtray:</l>
+                     <l>For ſuch are the ſtiff <hi>Laws</hi> of peeviſh <hi>Rhime,</hi>
+                     </l>
+                     <l>We muſt obey, tho' againſt Senſe a Crime.</l>
+                  </lg>
+                  <lg>
+                     <l>Each <hi>Art</hi> and <hi>Science</hi> has it proper Dreſs;</l>
+                     <l>Nor muſt Majeſtick <hi>Poetry</hi> have leſs:</l>
+                     <l>Soft <hi>Turns,</hi> illuſtrious <hi>Epithets,</hi> and <hi>Strains</hi> of <hi>State,</hi>
+                     </l>
+                     <l>With crowding <hi>Fancies,</hi> ſuitable and great,</l>
+                     <l>Are what on it's Triumphant <hi>Meaſures</hi> wait<g ref="char:punc">▪</g>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But here, my <hi>Muſe,</hi> in a leſs awful Stile,</l>
+                     <l>From ſuch bright <hi>Modes</hi> of <hi>Pomp,</hi> retires a while;</l>
+                     <l>She humbly ſhuns that Luſtre they would give;</l>
+                     <l>Nor ſtands ſhe now on her Prerogative:</l>
+                     <pb facs="tcp:175760:5"/>
+                     <l>In <hi>plain</hi> and <hi>eaſy Terms,</hi> Sh' eſſays to prove</l>
+                     <l>Her higheſt value for the <hi>Vulgar's</hi> Love,</l>
+                     <l>And fix their thoughts on nobler things above</l>
+                  </lg>
+                  <lg>
+                     <l>Where if I find Succeſs attends her <hi>Art,</hi>
+                     </l>
+                     <l>And by her <hi>Charms</hi> ſhe' has gain'd to Heaven their <hi>Heart,</hi>
+                     </l>
+                     <l>I ſhall not then repent me what I've done,</l>
+                     <l>But wiſh in the Good <hi>Work,</hi> I'de farther gone.</l>
+                  </lg>
+                  <pb facs="tcp:175760:6"/>
+               </div>
+               <div type="table_of_contents">
+                  <pb facs="tcp:175760:6" rendition="simple:additions"/>
+                  <head>Pſalms.</head>
+                  <list>
+                     <item>1</item>
+                     <item>5</item>
+                     <item>6</item>
+                     <item>15</item>
+                     <item>30</item>
+                     <item>32</item>
+                     <item>38</item>
+                     <item>42</item>
+                     <item>51</item>
+                     <item>67</item>
+                     <item>82</item>
+                     <item>90</item>
+                     <item>95</item>
+                     <item>100</item>
+                     <item>102</item>
+                     <item>116</item>
+                     <item>130</item>
+                     <item>133</item>
+                     <item>134</item>
+                     <item>137</item>
+                     <item>141</item>
+                     <item>143</item>
+                     <item>145</item>
+                     <item>150</item>
+                  </list>
+                  <pb facs="tcp:175760:7"/>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:175760:7"/>
+                  <head>Select PSALMS.</head>
+                  <div n="1" type="Psalm">
+                     <head>Pſalm <hi>I.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> BLeſt is the Man that is not led</l>
+                        <l>By ſuch as Wicked are;</l>
+                        <l>Nor ſtands in Sin confirm'd, or hath</l>
+                        <l>Poſſeſs'd the Scorners Chair.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> But in th' Almighty's Laws Divine</l>
+                        <l>Hath plac'd his ſole Delight;</l>
+                        <l>Whereon his grave religious Thoughts</l>
+                        <l>Are fixt both Day and Night.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> He ſhall be like that Tree which does,</l>
+                        <l>By a ſreſh Stream appear;</l>
+                        <l>whoſe Branche<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, preſs'd with cluſter'd Fruit,</l>
+                        <l>Still crown the ſmiling Year.</l>
+                     </lg>
+                     <lg>
+                        <l>Whoſe Leaf, whoſe fair delightful Shade</l>
+                        <l>Shall ever verdant laſt;</l>
+                        <l>And thus on whatſoe're Heaven ſmiles,</l>
+                        <l>Shall no Misfortunes blaſt.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> But ſuch is not their proſp'rous State</l>
+                        <l>Who have their God declin'd;</l>
+                        <l>They, but as empty Chaff, appear,</l>
+                        <l>That's ſcatter'd by the Wind.</l>
+                     </lg>
+                     <lg>
+                        <pb n="2" facs="tcp:175760:8"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Whoſe Courage, when to Judgment call'd,</l>
+                        <l>Shall fail, when they have found</l>
+                        <l>They are at length thoſe Joys depriv'd,</l>
+                        <l>Where with the Juſt are Crown'd.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> For on the Righteous are, O Lord,</l>
+                        <l>Thy Eyes ſtill fixt with Care;</l>
+                        <l>Whilſt Sinners periſh in their Courſe,</l>
+                        <l>Are plung'd into Deſpair.</l>
+                     </lg>
+                  </div>
+                  <div n="5" type="Psalm">
+                     <pb n="3" facs="tcp:175760:8"/>
+                     <head>Pſalm <hi>V.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> To my Complaints, Almighty Lord,</l>
+                        <l>Incline thy ever-gracious Ear;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> For unto thee my King! my God!</l>
+                        <l>I humbly will direct my Prayer.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> In her Devotions even ſhall</l>
+                        <l>My active Soul ſtill early be;</l>
+                        <l>And unto none for help look up,</l>
+                        <l>Or ſupplicate on Earth but Thee.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> For Thou, bright God! art ever pure;</l>
+                        <l>Nor do'ſt in wickedneſs delight;</l>
+                        <l>Neither ſhall any Evil long</l>
+                        <l>Continue to offend thy ſight.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> The fooliſh and the giddy Thou</l>
+                        <l>Shalt from thy glorious Preſence drive;</l>
+                        <l>Nor ſuffer thoſe before Thee Stand,</l>
+                        <l>Who miſchief in their Hearts contrive.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> On thoſe ſhall thy ſharp Judgments fall,</l>
+                        <l>Who pleaſure take in ſpreading Lies;</l>
+                        <l>Nor even they eſcape, juſt Lord!</l>
+                        <l>Who bloody Stratagems deviſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> But as for me, I'll now, O God,</l>
+                        <l>To thy bright holy Courts repair;</l>
+                        <l>And with a thankful Heart aloud,</l>
+                        <l>Thy everlaſting Love declare.</l>
+                     </lg>
+                     <lg>
+                        <pb n="4" facs="tcp:175760:9"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> Be therefore Thou, <hi>O</hi> Lord, my Guide,</l>
+                        <l>Leſt peradventure I ſhould ſtray;</l>
+                        <l>And to my Foes occaſion give</l>
+                        <l>T'entrap me in my' ungarded Way.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> For there's no Faith alas! in thoſe,</l>
+                        <l>Whoſe wicked Hearts conceive a Wrong;</l>
+                        <l>Who, tho their Lips be ſmooth as Oyl,</l>
+                        <l>Have yet a Poyſon in their Tongue.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> But Thou, O righteous Judge! ſhalt ſoon</l>
+                        <l>Them in their Villanies ſurpriſe;</l>
+                        <l>And unto Condemnation bring,</l>
+                        <l>Who in Rebellion 'gainſt thee riſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="11"/> Whilſt They, who in thy Mercy Truſt,</l>
+                        <l>To Thee their gratefull Hearts ſhall raiſe;</l>
+                        <l>And for the Kindneſs Thou haſt ſhown,</l>
+                        <l>In Triumph celebrate thy Praiſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="12"/> For on the Righteous, thy own Lot,</l>
+                        <l>Shall, Lord, thy Bleſſings ſtill deſcend;</l>
+                        <l>Whom with thy Favour, and thy Love,</l>
+                        <l>Thou do'ſt as with a ſhield defend.</l>
+                     </lg>
+                  </div>
+                  <div n="6" type="Psalm">
+                     <pb n="5" facs="tcp:175760:9"/>
+                     <head>Pſalm <hi>VI.</hi> Being the Firſt of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> Correct me not in Anger, Lord,</l>
+                        <l>Tho Chaſtiſements are due;</l>
+                        <l>Nor in thy fierceſt Wrath too far</l>
+                        <l>My hateful Crimes purſue.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> But here (while preſs'd beneath thy Hand,</l>
+                        <l>Thus weakn'd with my Groans)</l>
+                        <l>O let thy Love thoſe Pains allay,</l>
+                        <l>VVhich run through all my Bones.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> My Soul alas! with dread is ſtruck,</l>
+                        <l>Of what's already paſt;</l>
+                        <l>How long will therefore, mighty Lord!</l>
+                        <l>Thy raging Fury laſt?</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> O turn Thee, turn Thee, Thou that art</l>
+                        <l>My Soul's offended God;</l>
+                        <l>And for thy Mercies ſake lay by</l>
+                        <l>Thy ſharp afflicting Rod.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> For lo! in the forgetful Grave,</l>
+                        <l>where all things ſilent be,</l>
+                        <l>who can, dread Lord! thy Praiſes ſing,</l>
+                        <l>Or once remember Thee.</l>
+                     </lg>
+                     <lg>
+                        <pb n="6" facs="tcp:175760:10"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Through conſtant Mourning, Lord, behold!</l>
+                        <l>My Body feeble wears;</l>
+                        <l>In Sighs it with the Day conſumes;</l>
+                        <l>At Night diſolves in Tears.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Though Grief my wonted Beauty fades;</l>
+                        <l>Thus waſted is my State,</l>
+                        <l>Occaſion'd even now by thoſe</l>
+                        <l>VVho my Deſtruction wait.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> But hence, miſtaken Sinners! hence,</l>
+                        <l>The Lord regards my Cries;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> And to my humble Suit at length</l>
+                        <l>His gracious Ear applys.</l>
+                     </lg>
+                  </div>
+                  <div n="15" type="Psalm">
+                     <pb n="7" facs="tcp:175760:10"/>
+                     <head>Pſalm <hi>XV.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> VVHo is, O Lord, the Man that ſhall</l>
+                        <l>VVithin thy Courts abide;</l>
+                        <l>Or on thy ever-ſacred Mount,</l>
+                        <l>VVith thy bleſt Saints reſide.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Ev'n He whoſe Ways are uncorrupt,</l>
+                        <l>Whoſe Feet uprightly tread;</l>
+                        <l>Nor is, through Fear to ſpeak the Truth.</l>
+                        <l>Againſt his Conſcience led.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Who hath not acted with Deceit,</l>
+                        <l>Or done his Neighbour wrong;</l>
+                        <l>Nor vile Detraction e're hath made</l>
+                        <l>Th' Employment of his Tongue.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Who ſuch, as in their Sins perſiſt,</l>
+                        <l>Contemns, and only thoſe,</l>
+                        <l>Who fear the Lord, and act what's juſt,</l>
+                        <l>Reſpect and Honour ſhews,</l>
+                     </lg>
+                     <lg>
+                        <l>VVho ne're equivocates, or does</l>
+                        <l>Of Falſities allow;</l>
+                        <l>Nor yet, tho' to his Loſs it proves,</l>
+                        <l>E're violates his Vow.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> VVho ſets not out to ſordid Uſe</l>
+                        <l>VVhat e're he lends the Poor;</l>
+                        <l>Nor to commit Things baſe, is One</l>
+                        <l>VVhom glitt'ring Bribes allure.</l>
+                     </lg>
+                     <lg>
+                        <pb n="8" facs="tcp:175760:11"/>
+                        <l>This is, <hi>O</hi> Lord, that happy Man</l>
+                        <l>VVho on thy Hill ſhall reſt;</l>
+                        <l>Unſhaken through thy Favour ſtand,</l>
+                        <l>Shall be for ever bleſt.</l>
+                     </lg>
+                  </div>
+                  <div n="30" type="Psalm">
+                     <pb n="9" facs="tcp:175760:11"/>
+                     <head>Pſalm. <hi>XXX.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> IN Thy eternal Praiſe, ſhall, Lord,</l>
+                        <l>My Soul lift up her voice;</l>
+                        <l>Who o're me haſt not made my Foes</l>
+                        <l>In Triumph to rejoyce.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> When in Diſtreſs on thee I call'd,</l>
+                        <l>Thy Mercy did not ſail;</l>
+                        <l>But, as a kind Phyſician, Thou</l>
+                        <l>Did'ſt my Diſtempers heal.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thy Love it was alone, which me</l>
+                        <l>For happier Ends reſerv'd;</l>
+                        <l>And from the dark forgetful Grave</l>
+                        <l>My ſinking Soul preſerv'd.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Sing then unto the Lord ye Saints,</l>
+                        <l>In Hymns your Loves expreſs;</l>
+                        <l>And let it in Remembrance be,</l>
+                        <l>Of his bright Holineſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Whoſe Frowns are of ſo ſhort a date,</l>
+                        <l>VVe ſcarce his Kindneſs miſs;</l>
+                        <l>And in whoſe Favour lies contain'd</l>
+                        <l>The Soul's eternal Bliſs.</l>
+                     </lg>
+                     <lg>
+                        <l>Thô Sorrow for a Night may laſt,</l>
+                        <l>And we afflicted mourn;</l>
+                        <l>Yet ſoon with the next Morning's Light.</l>
+                        <l>Our abſent Joys return.</l>
+                     </lg>
+                     <lg>
+                        <pb n="10" facs="tcp:175760:12"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> When in Proſperity I liv'd,</l>
+                        <l>Enjoy'd my worldly All;</l>
+                        <l>Thus I, o Lord, began to boaſt,</l>
+                        <l>That I ſhou'd never fall.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> But ah! as ſoon as Thou withdrew,</l>
+                        <l>Thy Favours didſt revoke;</l>
+                        <l>I to my Coſt was then convinc'd</l>
+                        <l>How fooliſhly I ſpoke.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> But lo! to Thee, my ſlighted God,</l>
+                        <l>I flew for timely Aid;</l>
+                        <l>And thus before thy Majeſty,</l>
+                        <l>My Caſe right humbly laid.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> "What Profit is there in my Blood,</l>
+                        <l>Should it thy Wrath appeaſe?</l>
+                        <l>"How ſhall the Duſt, moſt mighty Lord!</l>
+                        <l>Thy Excellencies Praiſe?</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> "In Mercy to my fervent Suit,</l>
+                        <l>Bow down thy gracious Ear;</l>
+                        <l>"Be Thou alone my bleſt Support,</l>
+                        <l>Remove my preſent Fear.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="11"/> Then into new Delights were all</l>
+                        <l>My gloomy Sorrows turn'd;</l>
+                        <l>And thou, my God, being reconcil'd,</l>
+                        <l>My Soul no longer mourn'd.</l>
+                     </lg>
+                  </div>
+                  <div n="32" type="Psalm">
+                     <pb n="11" facs="tcp:175760:12"/>
+                     <head>Pſalm <hi>XXXII.</hi> Being the Second of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> BLeſt is, O Lord, that Man whom Zhou</l>
+                        <l>Beholdeſt from above;</l>
+                        <l>Whoſe Faults thy Juſtice have eſcap'd,</l>
+                        <l>Are cover'd by thy Love.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> For ſurely now, as ſuely, we may</l>
+                        <l>That happy Perſon Stile;</l>
+                        <l>To whom the Lord imputes no Sin,</l>
+                        <l>In whom there is no Guile.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> When I, tho conſcious of my Guilt,</l>
+                        <l>Had not my Crimes confeſt:</l>
+                        <l>How ſtrongly was, O Lord, my Mind</l>
+                        <l>With Terrours then poſſesſt?</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> So hot was, Lord, thine Anger which</l>
+                        <l>My Sins did then inflame;</l>
+                        <l>That ſoon, like Earth in Summer parch'd,</l>
+                        <l>My waſted Fleſh became.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> But when before Thee I appear'd,</l>
+                        <l>A juſt Confeſſion made;</l>
+                        <l>How ready wert Thou to forgive,</l>
+                        <l>And was thy Wrath allay'd!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Thus ſhall each ſpeedy Penitent,</l>
+                        <l>Who does his Sins forſake,</l>
+                        <l>Thy timely Mercy find, nor ſhall</l>
+                        <l>The Flouds his Soul ore-take.</l>
+                     </lg>
+                     <lg>
+                        <pb n="12" facs="tcp:175760:13"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> For Thou, great God! from threatning Ills</l>
+                        <l>Art ſtill a ſure Defence;</l>
+                        <l>VVhom therefore in my Songs I'll praiſe</l>
+                        <l>For my Deliverance.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> You who to Happineſs would ſteer,</l>
+                        <l>Come now and learn of me;</l>
+                        <l>I will direct you in your Courſe,</l>
+                        <l>Your skilful Pilot be.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> O be not therefore as a Mule,</l>
+                        <l>
+                           <hi>Or</hi> like an untam'd Horſe;</l>
+                        <l>VVhoſe head-ſtrong Tempers will not brook</l>
+                        <l>The Curb of Reaſons Force.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> For ſuch, juſt Lord! Thy ſtrokes ſhall feel,</l>
+                        <l>VVho are ſo bruitiſh found;</l>
+                        <l>But they, who Thee obey, ſhall be</l>
+                        <l>VVith thy chief Bleſſings crown'd.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="11"/> Rejoyce ye then who fear the Lord,</l>
+                        <l>In Triumph praiſe his Name;</l>
+                        <l>And let ſuch Exultations ſtill</l>
+                        <l>Your fervent Loves proclaim.</l>
+                     </lg>
+                  </div>
+                  <div n="38" type="Psalm">
+                     <pb n="13" facs="tcp:175760:13"/>
+                     <head>Pſalm <hi>XXXVIII.</hi> Being the Third of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> O Do not Thou in Anger, Lord,</l>
+                        <l>Too far my hainous Sins purſue;</l>
+                        <l>Nor on me in thy Wrath inflict</l>
+                        <l>Thoſe ſharper Judgments that are due.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> For in me lo! Thine Arrows ſtick,</l>
+                        <l>Through wilful Breach of Thy Command;</l>
+                        <l>That almoſt cruſh'd to Death I lye</l>
+                        <l>Beneath the Preſſure of thy Hand.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> No Soundneſs in my Fleſh appears,</l>
+                        <l>Such hath thy late Diſpleaſure been;</l>
+                        <l>Nor even Reſt unto my Bones,</l>
+                        <l>By reaſon of my raging Sin.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> So numerous are alas! my Crimes,</l>
+                        <l>So dreadful is my preſent Fear;</l>
+                        <l>That ſunk beneath them, Lord, I can</l>
+                        <l>Their heavy weight no longer bear.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Corrupt and ſtinking are my Wounds;</l>
+                        <l>Thus for my Wickedneſs I pay:</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> And thus in Trouble I am brought,</l>
+                        <l>As one in Mourning ſpend the Day.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="11"/> Nor here determinate my Griefs,</l>
+                        <l>Rais'd, Lord, by thy correcting Hand;</l>
+                        <l>My Friends ev'n ſhun me as a Plague,</l>
+                        <l>And at a diſtance gazing ſtand.</l>
+                     </lg>
+                     <lg>
+                        <pb n="14" facs="tcp:175760:14"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="13"/> But lo! as one that's deaf I'appear;</l>
+                        <l>As ſilent too, as one that's dumb,</l>
+                        <l>I open not, O Lord, my mouth,</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="14"/> Or chafe when e're my Sorrows come.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="15"/> For yet in Thee remains my Truſt;</l>
+                        <l>On whom with Patience I thus wait:</l>
+                        <l>And ſure I am, Thou, Lord, wilt hear</l>
+                        <l>The Cryes of my afflicted State.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="22"/> Haſte then, Good God! unto my Aid,</l>
+                        <l>My weak and needy State look on;</l>
+                        <l>For Thou alone art my Support!</l>
+                        <l>My Comfort! my Salvation!</l>
+                     </lg>
+                  </div>
+                  <div n="42" type="Psalm">
+                     <pb n="15" facs="tcp:175760:14"/>
+                     <head>Pſalm <hi>XLII.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> AS the chas'd Hart with eager Thirſt</l>
+                        <l>Wou'd at the VVaters be;</l>
+                        <l>VVith ſuch Deſire, o Lord, inflam'd,</l>
+                        <l>My Soul pants after Thee.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> For Thee, ev'n doth, bright God! my Soul</l>
+                        <l>With fervent Paſſion burn;</l>
+                        <l>Expecting when to thy lov'd Courts,</l>
+                        <l>I ſhall again return.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> My Tears are but my thin Repaſts,</l>
+                        <l>While Men thus me upbraid;</l>
+                        <l>And in a Scoff cry, where's thy God?</l>
+                        <l>VVhere's now thy boaſted Aid?</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> For, Lord, unbounded are my Griefs,</l>
+                        <l>To think on thoſe bleſt Days,</l>
+                        <l>VVhen throng'd, I to the Temple went</l>
+                        <l>To celebrate thy Praiſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> But why art thou ſo ſad, my Soul!</l>
+                        <l>And are thy Joys allay'd?</l>
+                        <l>O! why is now, my better Part,</l>
+                        <l>Become at length diſmay'd?</l>
+                     </lg>
+                     <lg>
+                        <l>God ſtill is thy Support, in whom</l>
+                        <l>Fail not thy Truſt to place;</l>
+                        <l>For lo! his Name thou yet ſhalt praiſe,</l>
+                        <l>For his Returns of Grace.</l>
+                     </lg>
+                  </div>
+                  <div n="51" type="Psalm">
+                     <pb n="16" facs="tcp:175760:15"/>
+                     <head>Pſalm <hi>Li.</hi> Being the Fourth of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> IN Mercy here, do Thou, o God,</l>
+                        <l>My guilty State ſurvey;</l>
+                        <l>And of thy never-failing Love,</l>
+                        <l>Wipe all my Sins away.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> O! waſh my vile polluted Soul</l>
+                        <l>from each offenſive Stain;</l>
+                        <l>That <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n thy Preſence, Lord, it may</l>
+                        <l>Appear for ever clean.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> To Thee, ah! my offended God!</l>
+                        <l>I will my Crimes confeſs:</l>
+                        <l>Who<g ref="char:punc">▪</g> Day and Night ſtill haunted am,</l>
+                        <l>With my foul Wickedneſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Thee only have I ſinn'd againſt,</l>
+                        <l>Ev'n I, who am but Duſt,</l>
+                        <l>And ſhould I be condemn'd, yet Thou</l>
+                        <l>Remainſt for ever juſt.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Of Sin, behold, o Lord! I am</l>
+                        <l>A wretched Compound made;</l>
+                        <l>In Sin my Mother brought me forth,</l>
+                        <l>In Sin I was conceiv'd.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Whilſt Thee in nothing better pleas'd,</l>
+                        <l>O righteous God! we find,</l>
+                        <l>Than in Man's inward Purity,</l>
+                        <l>His Uprightneſs of Mind.</l>
+                     </lg>
+                     <lg>
+                        <pb n="17" facs="tcp:175760:15"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> But when with Hyſope once I'm purg'd,</l>
+                        <l>I ſhall unſpotten ſhew;</l>
+                        <l>Correct in all my inner Parts,</l>
+                        <l>And be more white than Snow.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> With joys poſſeſs'd ſhall then my Soul,</l>
+                        <l>Reſume her tuneful Voice;</l>
+                        <l>And even all my ſhatter'd Bones,</l>
+                        <l>In God their Strength Rejoice.</l>
+                     </lg>
+                     <pb n="16" facs="tcp:175760:16"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="17" facs="tcp:175760:16"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </div>
+                  <div n="67" type="Psalm">
+                     <pb n="18" facs="tcp:175760:17"/>
+                     <head>Pſalm LXVII.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> BLeſs (we beſeech Thee) Gracious Lord!</l>
+                        <l>The People who be thine;</l>
+                        <l>And through their gloomy Nature let</l>
+                        <l>Thy radiant Beauty ſhine.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> That all the rude and untaught World,</l>
+                        <l>Where ſuch thy Mercies flow,</l>
+                        <l>May, through the Brightneſs of thy Face,</l>
+                        <l>Their great Salvation know.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> To Thee, aloud let Mankind, Lord,</l>
+                        <l>Their holy joys proclaim;</l>
+                        <l>And in exalted Hymns of Praiſe</l>
+                        <l>Set forth thy Glorious Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> O let the Nations, touch'd with Love,</l>
+                        <l>Thy laſting Goodneſs Sing;</l>
+                        <l>VVho art their Righteous Governor!</l>
+                        <l>Their Lord! their mighty King!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> To Thee aloud, let mankind, Lord,</l>
+                        <l>Their holy Joys proclaim;</l>
+                        <l>And in exalted Hymns of Praiſe</l>
+                        <l>Set forth thy glorious Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Then ſhall, o then, the teeming Earth</l>
+                        <l>Be crown'd with laſting Peace;</l>
+                        <l>And, of thoſe Bleſſings Thou haſt ſown,</l>
+                        <l>Send forth a large Encreaſe.</l>
+                     </lg>
+                     <lg>
+                        <pb n="19" facs="tcp:175760:17"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Thus Thou, with Bleſſings, us ſhalt bleſs,</l>
+                        <l>Thy Majeſty declare;</l>
+                        <l>Whilſt the aſtoniſh'd world, Great God!</l>
+                        <l>Thy' Almightineſs ſhall fear.</l>
+                     </lg>
+                  </div>
+                  <div n="67" type="Psalm">
+                     <pb n="20" facs="tcp:175760:19"/>
+                     <head>Pſalm <hi>LXVII.</hi> Another Metre.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> BLeſs (we beſeech Thee) Lord,</l>
+                        <l>The People who be Thine;</l>
+                        <l>And through their gloomy Nature let</l>
+                        <l>Thy radiant Beauty ſhine.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> That all the untaught world,</l>
+                        <l>Where ſuch thy Mercies flow,</l>
+                        <l>May through the Brightneſs of thy Face,</l>
+                        <l>Their great ſalvation know.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> To Thee, let mankind, Lord,</l>
+                        <l>Their holy joys proclaim?</l>
+                        <l>And in exal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ed Hymns of Praiſe</l>
+                        <l>Set forth thy glorious Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Let Nations, touch'd with Love,</l>
+                        <l>Thy laſting Goodneſs ſing;</l>
+                        <l>Who art their righteous Governor!</l>
+                        <l>Their Lord! their mighty King!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> To Thee, let mankind, Lord,</l>
+                        <l>Their holy Joys proclaim;</l>
+                        <l>And in exalted Hymns of Praiſe</l>
+                        <l>Set forth thy glorious Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Then ſhall the teeming Earth</l>
+                        <l>Be crown'd with laſting Peace;</l>
+                        <l>And of thoſe Bleſſings Thou haſt ſown,</l>
+                        <l>Send forth a large Encreaſe.</l>
+                     </lg>
+                     <lg>
+                        <pb n="21" facs="tcp:175760:19"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Thus, Lord, Thou us ſhalt bleſs,</l>
+                        <l>Thy Majeſty declare,</l>
+                        <l>Whilſt the aſtoniſh'd World, Great God!</l>
+                        <l>Thy' Almightineſs ſhall fear.</l>
+                     </lg>
+                     <pb n="20" facs="tcp:175760:18"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="21" facs="tcp:175760:18"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </div>
+                  <div n="82" type="Psalm">
+                     <pb n="22" facs="tcp:175760:20"/>
+                     <head>Pſalm <hi>LXXXII.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> LO! O ye Judges of the Earth,</l>
+                        <l>Ye Pillars of the Land,</l>
+                        <l>God does with an inſpecting Eye,</l>
+                        <l>Amidſt your Councels ſtand!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Why, therefore dare ye in his Sight,</l>
+                        <l>Neglect what's juſt to do;</l>
+                        <l>And only to the Rich, the Great,</l>
+                        <l>Your partial Favours ſhew?</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> You in whoſe Hands the Scales are plac'd,</l>
+                        <l>On Seats of Juſtice ſit;</l>
+                        <l>Shou'd with unbyaſs'd Minds ſtill act</l>
+                        <l>in the Defence of it.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> But ah! where Gain and Inter'ſt meet,</l>
+                        <l>Are in the Ballance laid;</l>
+                        <l>How are the Earth's Foundations ſhook!</l>
+                        <l>How light is Juſtice made!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> 'Tis true, I've ſaid ye appear as Gods,</l>
+                        <l>But know, that ye ſhall all</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Like Peaſants, undiſtinguiſh'd, dye,</l>
+                        <l>Shall with the Sinful fall.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> Riſe then, Great Judge of Heav'n and Earth!</l>
+                        <l>And let thy Power be known;</l>
+                        <l>That Thou may'ſt Mankind vindicate,</l>
+                        <l>Who are by right thy own.</l>
+                     </lg>
+                  </div>
+                  <div n="90" type="Psalm">
+                     <pb n="23" facs="tcp:175760:20"/>
+                     <head>Pſalm <hi>XC.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> THou haſt, O God, our Refuge been,</l>
+                        <l>Our wonted Place of Reſt;</l>
+                        <l>In whom we have Protection found,</l>
+                        <l>By whom we have been bleſt.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> For of eternal Date Thou wert</l>
+                        <l>With Majeſty aray'd,</l>
+                        <l>E're yet the Mountains were brought forth,</l>
+                        <l>Or the round World was made.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Moſt juſt, o Lord, are thy Decrees,</l>
+                        <l>And therefore lo! we muſt,</l>
+                        <l>When Thou art pleas'd to ſpeak the Word,</l>
+                        <l>Return again to Duſt.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> For ah! what are a thouſand Years,</l>
+                        <l>When meaſur'd by thine Eye:</l>
+                        <l>They all are but as Yeſterday;</l>
+                        <l>As ſwift as Thought they fly.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Thus, when by Thee we 're ſcatter'd, Lord,</l>
+                        <l>Ev'n like a Dream we paſs;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Appearing in the Morning freſh,</l>
+                        <l>At Noon like wither'd Graſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> This, Lord, is our uncertain State,</l>
+                        <l>Through thy conſuming Ire;</l>
+                        <l>Who juſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y for our Sins are plagu'd,</l>
+                        <l>And ſuddenly expire.</l>
+                     </lg>
+                     <lg>
+                        <pb n="24" facs="tcp:175760:21"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> For to thy Sight, ſtill Lord expos'd,</l>
+                        <l>Our wickedneſſes lye;</l>
+                        <l>And even our moſt ſec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Crimes,</l>
+                        <l>As Day before thine Bye.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> Wherefore, through thy Diſpleaſure, Lord,</l>
+                        <l>Our Life more ſhort appears;</l>
+                        <l>And as an empty Tale that's told,</l>
+                        <l>Paſs off our rolling Years.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> To Seventy is our Age preſcrib'd;</l>
+                        <l>Yet here ſhou'd we below</l>
+                        <l>To eighty Years through Strength arrive,</l>
+                        <l>We then but Sorrows know.</l>
+                     </lg>
+                     <lg>
+                        <l>At moſt it is (o Lord) but ſhort,</l>
+                        <l>And in a Breath gone o're;</l>
+                        <l>So ſoon like fading Plants we fall,</l>
+                        <l>And then are ſeen no more.</l>
+                     </lg>
+                  </div>
+                  <div n="95" type="Psalm">
+                     <pb n="25" facs="tcp:175760:21"/>
+                     <head>Pſalm <hi>XCV.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> O Come, let's now unto the Lord,</l>
+                        <l>In Songs our Voices raiſe;</l>
+                        <l>For He our great Salvation is,</l>
+                        <l>And beſt deſerves our Praiſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Before his Preſence with a Pſalm,</l>
+                        <l>And Hearts prepar'd, let's go;</l>
+                        <l>That we in a triumphant Mirth,</l>
+                        <l>Our Gratitude may ſhew.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> For He, th'Almighty Lord, is God,</l>
+                        <l>From whom all Beings ſpring;</l>
+                        <l>Who is of Powers above, below,</l>
+                        <l>The over-ruling King.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Whoſe Hand the ſpacious Globe contains,</l>
+                        <l>Whoſe Sway no Limits knows;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> By whoſe Decree the Earth ſtands fixt,</l>
+                        <l>The Ocean ebbs and flows.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> O come and let's before him fall,</l>
+                        <l>Poſſeſs'd with holy Fear;</l>
+                        <l>And that bright Majeſty addreſs,</l>
+                        <l>By whom alone we are.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> For He, th'Almighty Lord, is God,</l>
+                        <l>Through whom we nothing need;</l>
+                        <l>We are his Sheep, our Shepherd He,</l>
+                        <l>By whom we ſafely feed.</l>
+                     </lg>
+                     <pb n="24" facs="tcp:175760:22"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="25" facs="tcp:175760:22"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <lg>
+                        <pb n="26" facs="tcp:175760:23"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> If therefore you his Voice will hear,</l>
+                        <l>His laſting Love poſſeſs;</l>
+                        <l>Let not your Sins his Wrath provoke,</l>
+                        <l>As in the Wilderneſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> Where (by our Fathers Crimes enrag'd)</l>
+                        <l>He did their Hopes deſtroy,</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="11"/> And in his Anger ſwear, that they</l>
+                        <l>ſhould ne're his Reſt enjoy.</l>
+                     </lg>
+                  </div>
+                  <div n="100" type="Psalm">
+                     <pb n="27" facs="tcp:175760:23"/>
+                     <head>Pſalm <hi>C.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> BE Joyful in the Lord, ye Lands,</l>
+                        <l>And, that ye now your Love may ſhew;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Let in his Preſence from your Lips,</l>
+                        <l>Your grateful Songs of Praiſes flow.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> For know, that He the Lord, is God,</l>
+                        <l>By whom, not by our ſelves, we're made;</l>
+                        <l>We are his People, and as Sheep</l>
+                        <l>He gently does in Paſtures lead.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> O enter then into his Gates,</l>
+                        <l>VVithin his Courts your Joys proclaim;</l>
+                        <l>Be ever thankful for his Love.</l>
+                        <l>Extol his ever-ſacred Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> For gracious is the Lord, our God,</l>
+                        <l>VVhoſe Mercies everlaſting prove;</l>
+                        <l>VVho in th' eternal Circle reigns,</l>
+                        <l>Of never-weaning Truth and Love.</l>
+                     </lg>
+                  </div>
+                  <div n="102" type="Psalm">
+                     <pb n="28" facs="tcp:175760:24"/>
+                     <head>Pſalm <hi>CII.</hi> Being the Fifth of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> O Lord unto my fervent Prayer</l>
+                        <l>Thy ever-gracious Ear apply:</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Nor from me now turn Thou thy Face,</l>
+                        <l>VVhen in Diſtreſs to Thee I cry.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> As ſmoke, behold! my Days conſume;</l>
+                        <l>My Bones are burnt ev'n as an Hearth;</l>
+                        <l>VVhich are, O God, the dire Effects,</l>
+                        <l>The Marks of thy enkindl'd VVrath.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> So raging are my Griefs become,</l>
+                        <l>No Food my fainting Spirits chears;</l>
+                        <l>VVhilſt lo! through want of ſuch Support,</l>
+                        <l>My Heart like wither'd Graſs appears.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Behold, alas! how to my Skin,</l>
+                        <l>Do even cleave my aking Bones;</l>
+                        <l>And that by reaſon of my Plaints,</l>
+                        <l>My never-ceaſing Sighs and Groans.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> For ſuch is now my penſive State,</l>
+                        <l>Such is, <hi>O</hi> Lord, my deep Diſtreſs;</l>
+                        <l>I'm as the Pelican become,</l>
+                        <l>The Screech-Owl of the VVilderneſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Or as the Sparrow on the Houſe,</l>
+                        <l>I watch, and am alone all Day;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> VVhile they, who are againſt me ſet,</l>
+                        <l>On me their vile Reproaches lay.</l>
+                     </lg>
+                     <lg>
+                        <pb n="29" facs="tcp:175760:24"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> Of Aſhes is my daily Food;</l>
+                        <l>With Tears I mingle ſtill my Drink;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> VVhilſt thus beneath thy Anger, Lord,</l>
+                        <l>My weak and drooping Spirits ſink.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="11"/> Behold, ah! how my fleeting Time,</l>
+                        <l>Does as an empty Shadow paſs;</l>
+                        <l>And even I, in nature, am</l>
+                        <l>No better than the fading Graſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="12"/> But Thou, o God, for ever ſhalt</l>
+                        <l>In Mercy ſhine, and be the ſame;</l>
+                        <l>VVhilſt Ages yet to come, ſhall praiſe,</l>
+                        <l>Shall magnify thy glorious Name.</l>
+                     </lg>
+                  </div>
+                  <div n="116" type="Psalm">
+                     <pb n="30" facs="tcp:175760:25"/>
+                     <head>Pſalm <hi>CXVI.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> IN Thee, O God, Almighty Love!</l>
+                        <l>Is fixt my ſole delight;</l>
+                        <l>Who did'ſt not in my <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ate Diſtreſs</l>
+                        <l>My Supplications ſlight.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> To whom, as my Deliverer,</l>
+                        <l>I'll therefore not delay,</l>
+                        <l>But, whilſt I've yet to live, proceed</l>
+                        <l>Still fervently to pray.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> When Death my' affrighted Soul beſieg'd,</l>
+                        <l>And threaten'd nought but Hell;</l>
+                        <l>'Twas Thee, O Lord, whom I then found</l>
+                        <l>My Rock, my Citadel.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> It was on Thee alone I call'd,</l>
+                        <l>Who didſt the Foe controul;</l>
+                        <l>And from invading Miſeries</l>
+                        <l>Thus ſave my ſinking Soul.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> For, Lord! Thou ever art moſt juſt!</l>
+                        <l>Moſt merciful! and kind!</l>
+                        <l>And who to all a Refuge art,</l>
+                        <l>VVho would a Refuge find.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> VVho, to the Needy and Diſtreſs'd,</l>
+                        <l>Art ſtill a ſure Relief;</l>
+                        <l>For ſuch I found Thee, o my God!</l>
+                        <l>VVhen I was in my Grief.</l>
+                     </lg>
+                     <pb n="31" facs="tcp:175760:25"/>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="12"/> What therefore in Return ſhall I</l>
+                        <l>To my Redeemer make;</l>
+                        <l>Who thus of my expiring Soul</l>
+                        <l>Did ſo much Pitty take.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="13"/> I'll Drink of that moſt Sacred Cup,</l>
+                        <l>Wherein Salvation lies;</l>
+                        <l>And in Return thereof give up</l>
+                        <l>My Heart a Sacrifice.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="14"/> In Preſence of the People, I</l>
+                        <l>My holy Vows will pay;</l>
+                        <l>And to the Lord my Praiſes date,</l>
+                        <l>From this moſt happy Day.</l>
+                     </lg>
+                  </div>
+                  <div n="130" type="Psalm">
+                     <pb n="32" facs="tcp:175760:26"/>
+                     <head>Pſalm <hi>CXXX.</hi> Being the Sixth of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> SUnk, Lord, beneath my Griefs, to Thee</l>
+                        <l>I've now ſent up my Cry;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Look therefore down, and to my Plaints</l>
+                        <l>Thy gracious Ear apply.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> For ah! ſhould'ſt Thou of our paſt Life</l>
+                        <l>Too ſtrict Account demand,</l>
+                        <l>Who can before Thee, Lord, appear!</l>
+                        <l>Who can unpuniſh'd ſtand!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> But lo! in pardoning is, great God!</l>
+                        <l>Thy Mercy ſtill the ſame;</l>
+                        <l>That the repenting World from thence,</l>
+                        <l>May learn to fear thy Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> In whom let <hi>Iſrael</hi> therefore truſt,</l>
+                        <l>Whoſe Mercies do abound;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> Who frees us from the Guilt of Sin,</l>
+                        <l>VVho is our Ranſom found.</l>
+                     </lg>
+                  </div>
+                  <div n="133" type="Psalm">
+                     <pb n="33" facs="tcp:175760:26"/>
+                     <head>Pſalm <hi>CXXXIII.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> HOw pleaſant is it, Lord, to ſee</l>
+                        <l>The <hi>Brethren</hi> live in Unity!</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> 'Tis like that precious Ointment ſhed</l>
+                        <l>On thy great Sacrificer's Head;</l>
+                     </lg>
+                     <lg>
+                        <l>Which down the holy Robe diſtill'd,</l>
+                        <l>And with rich Scents its Borders fill'd;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Or like the kindly Dew which drops</l>
+                        <l>On <hi>Sion</hi>'s ſacred Mountain-Tops:</l>
+                     </lg>
+                     <lg>
+                        <l>Ev'n ſo, o Lord, doth here below,</l>
+                        <l>On all the Saints, thy Bleſſings flow;</l>
+                        <l>Who, to reſemble thoſe above,</l>
+                        <l>United are in Peace and Love.</l>
+                     </lg>
+                     <lg>
+                        <head>Doxologie.</head>
+                        <l>
+                           <hi>Glory be to the</hi> Father, Son,</l>
+                        <l>
+                           <hi>And</hi> Holy Ghoſt, <hi>the Great</hi> Three-One;</l>
+                        <l>
+                           <hi>Which ever was, is now, ſhall be</hi>
+                        </l>
+                        <l>
+                           <hi>Aſcrib'd to all Eternity.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <div n="134" type="Psalm">
+                     <pb n="34" facs="tcp:175760:27"/>
+                     <head>Pſalm. <hi>CXXXIV.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> BEhold! now bleſs the Lord,</l>
+                        <l>Ye who by Night reſort,</l>
+                        <l>And to your God Attendance pay</l>
+                        <l>Within his holy Court.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Before the Throne of Grace,</l>
+                        <l>Your Thanks aloud proclaim;</l>
+                        <l>With grateful Hearts and Hands erect,</l>
+                        <l>O praiſe God's holy Name.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Then ſhall th' eternal King,</l>
+                        <l>His faithful People bleſs;</l>
+                        <l>
+                           <hi>Sion</hi> ſhall even then be crown'd</l>
+                        <l>With laſting Happineſs.</l>
+                     </lg>
+                  </div>
+                  <div n="137" type="Psalm">
+                     <pb n="35" facs="tcp:175760:27"/>
+                     <head>Pſalm <hi>CXXXVII.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> VVHen we, ah! by <hi>Euphrates</hi> Streams,</l>
+                        <l>Were as ſad Captives ſat,</l>
+                        <l>Far diſtant from our Native Soile,</l>
+                        <l>Bemoaning of our Fate.</l>
+                     </lg>
+                     <lg>
+                        <l>It was for Thee, we <hi>(Sion)</hi> did</l>
+                        <l>In Tears our Loves expreſs;</l>
+                        <l>And all thoſe dear Remembrances</l>
+                        <l>Of thy paſt Happineſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Whilſt hanging on the neighbouring Trees,</l>
+                        <l>Our ſilent Harps were laid;</l>
+                        <l>Which Sympathiſing with our Griefs,</l>
+                        <l>No chearful Muſick made.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> 'Twas here, <hi>O</hi> here, an <hi>Hebrew</hi> Song,</l>
+                        <l>With an inſulting Air,</l>
+                        <l>They haughtily did then demand,</l>
+                        <l>To whom we Priſoners were.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> But how alas! ſhall we our Harps</l>
+                        <l>Tune now to Sorrows Strains;</l>
+                        <l>Or ſing the Praiſes of our God,</l>
+                        <l>Where a ſtrange Monarch reigns.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Ah, no <hi>Jeruſalem!</hi> if e're</l>
+                        <l>My Thoughts of Thee decay,</l>
+                        <l>May on the warbling Harp, my hand</l>
+                        <l>Forget her wonted Play.</l>
+                     </lg>
+                     <lg>
+                        <pb n="36" facs="tcp:175760:28"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Or may, O may my ungrateful Tongue</l>
+                        <l>For ever ſilent be;</l>
+                        <l>Ev'n now, before my chiefeſt Mirth,</l>
+                        <l>If I prefer not Thee.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Remember therefore thoſe, juſt Lord!</l>
+                        <l>Who on th' Attaque were found,</l>
+                        <l>Thus of <hi>Jeruſalem</hi> to ſay;</l>
+                        <l>
+                           <hi>O</hi> raſe it to the Ground!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> For ſuch, curs'd <hi>Babylon!</hi> behold,</l>
+                        <l>Is thy approaching Fate;</l>
+                        <l>And unlamented Miſeries</l>
+                        <l>Of thy declining State.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> For ever bleſt the Victor be!</l>
+                        <l>Who lays thy Feet in Chains;</l>
+                        <l>And in that day, 'gainſt thy proud Walls,</l>
+                        <l>ſhall daſh thy Childrens Brains.</l>
+                     </lg>
+                  </div>
+                  <div n="141" type="Psalm">
+                     <pb n="37" facs="tcp:175760:28"/>
+                     <head>Pſalm <hi>CXLI.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> LOrd, 'tis on Thee alone I call,</l>
+                        <l>And on thy Mercy do rely;</l>
+                        <l>Reject not then my humble Suit,</l>
+                        <l>When in my Wants to Thee I cry.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                           <hi>O</hi> let my Prayer before Thee come,</l>
+                        <l>Like Smoke of Incenſe let it riſe;</l>
+                        <l>That my prepar'd Devotions may</l>
+                        <l>Be as an Evening Sacrifice.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Set Thou a Watch before my Mouth,</l>
+                        <l>To keep thy Servant ſtill in Fear;</l>
+                        <l>That nothing from my Lips may paſs,</l>
+                        <l>Which may offend thy Sacred Ear.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> To wickedneſs <hi>O</hi> let not, Lord,</l>
+                        <l>My weak unguarded Heart incline;</l>
+                        <l>Leſt with th' Ungodly in their Ways,</l>
+                        <l>I may unhappily combine.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> But grant that I may rather be</l>
+                        <l>Reprov'd by thoſe who Friendly Love;</l>
+                        <l>For that unto my wounded Head</l>
+                        <l>VVill a balſamick Ointment prove.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> And thus, whilſt Sinners, Lord, the Fruit</l>
+                        <l>Of their own Wickedneſs ſhall reap;</l>
+                        <l>Let me, through thy ne're-failing Love,</l>
+                        <l>Their evil Machinations 'ſcape.</l>
+                     </lg>
+                  </div>
+                  <div n="143" type="Psalm">
+                     <pb n="38" facs="tcp:175760:29"/>
+                     <head>Pſalm <hi>CXLIII.</hi> Being the Seventh and laſt of the Penitential Ones.</head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> GIve Ear, o Lord, to the Complaints</l>
+                        <l>Which I now make to Thee;</l>
+                        <l>And in thy everlaſting Truth</l>
+                        <l>Fail not to anſwer me.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Of my paſt Life, do Thou not, Lord,</l>
+                        <l>Too ſtrict Account demand;</l>
+                        <l>For ſure I am, none juſtiſy'd,</l>
+                        <l>Shall in thy Preſence ſtand.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Foe hath long my Soul purſu'd,</l>
+                        <l>Ev'n ſuch has been my Dread,</l>
+                        <l>That in the Dark I've lain conceal'd,</l>
+                        <l>As one that hath been dead.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> So ſwelling are my Griefs become,</l>
+                        <l>Which from my Fears <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>riſe,</l>
+                        <l>My Heart grows deſolate, my Soul</l>
+                        <l>Immers'd in Sorrow lies.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> But to my Comfort I, o Lord,</l>
+                        <l>Thy Works recall to Mind;</l>
+                        <l>Nor are, my God! thoſe Days forgot</l>
+                        <l>Wherein thou haſt been kind.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> For Thee doth, Lord, my gaſping Soul</l>
+                        <l>More languiſhingly wait,</l>
+                        <l>Than thirſty Earth for Showers of Rain,</l>
+                        <l>That's parch'd with Summer's Heat.</l>
+                     </lg>
+                     <lg>
+                        <pb n="39" facs="tcp:175760:29"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="7"/> Hear then, good God, my humble Suit,</l>
+                        <l>Thy Preſence let me have;</l>
+                        <l>Leſt I become like thoſe who lye</l>
+                        <l>In the neglected Grave.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> Betimes, o let my Soul, bleſt Lord!</l>
+                        <l>Thy wonted Kindneſs meet;</l>
+                        <l>And in the way that I ſhou'd walk,</l>
+                        <l>Guide Thou my erring Feet.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> From thoſe who are againſt me ſet,</l>
+                        <l>And wou'd my Life ſurpriſe,</l>
+                        <l>Do Thou thy Servant now protect</l>
+                        <l>Who to thy Shelter flyes.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+                           <hi>O</hi> teach me, Thou that art my God,</l>
+                        <l>Thy Sacred Laws t'obey;</l>
+                        <l>And to the Land of Righteouſneſs</l>
+                        <l>My Soul at length convey.</l>
+                     </lg>
+                  </div>
+                  <div n="145" type="Psalm">
+                     <pb n="40" facs="tcp:175760:30"/>
+                     <head>Pſalm <hi>CXLV.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> FOr ever, <hi>O</hi> eternal God!</l>
+                        <l>I will thy Praiſes ſing;</l>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Thou! who our great Creator art,</l>
+                        <l>The everlaſting King!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> For Thou moſt worthy art our Love,</l>
+                        <l>
+                           <hi>O</hi> brighteſt Excellence!</l>
+                        <l>Whoſe Power is beyond a Bound,</l>
+                        <l>Whoſe Goodneſs is Immenſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> One Age unto another ſtill,</l>
+                        <l>Thy Works to ſing, proceeds;</l>
+                        <l>And to th' aſtoniſh'd World around,</l>
+                        <l>Repeats thy mighty Deeds.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> Wherefore, dread Lord! I will prepare</l>
+                        <l>Thy Glory to relate;</l>
+                        <l>And in exalted Hymns diſplay</l>
+                        <l>Thy bright Majeſtick State.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> That they, who me ſucceed, may learn</l>
+                        <l>Thy Greatneſs to expreſs;</l>
+                        <l>And be with Reverence inform'd,</l>
+                        <l>Of thy Almightineſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="8"/> For all muſt freely now confeſs,</l>
+                        <l>They have Thy Favours found;</l>
+                        <l>And where Thy Juſtice ſhou'd have reach'd,</l>
+                        <l>Thy Love did moſt abound.</l>
+                     </lg>
+                     <lg>
+                        <pb n="41" facs="tcp:175760:30"/>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="9"/> Whoſe Providence from our Relief,</l>
+                        <l>No other Cares confine;</l>
+                        <l>But ſtill o're all thy Work alike,</l>
+                        <l>Thy tender Mercies ſhine.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="10"/> With whom in Conſort therefore, Lord,</l>
+                        <l>We will our Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nks proclaim;</l>
+                        <l>And, as it beſt becomes thy Saints,</l>
+                        <l>Extol thy ſacred Name.</l>
+                     </lg>
+                  </div>
+                  <div n="150" type="Psalm">
+                     <pb n="42" facs="tcp:175760:31"/>
+                     <head>Pſalm <hi>CL.</hi>
+                     </head>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> VVIthin his ever-ſacred Courts,</l>
+                        <l>Where his bright Honour's known</l>
+                        <l>O let to God your Praiſes be</l>
+                        <l>In <hi>Hallelujahs</hi> ſhown.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> Tranſcendent in his glorious Deeds,</l>
+                        <l>Let Inſtruments expreſs</l>
+                        <l>Thoſe lofty Joys, which beſt may Suit</l>
+                        <l>With his Almightineſs.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> Aloud, in ſtately Levets, let</l>
+                        <l>The Trumpet ſound his Praiſe;</l>
+                        <l>And the ſoft Strains o'th warbling Lute</l>
+                        <l>Your beſt Affections raiſe.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> Let Violins and Organs both,</l>
+                        <l>His Holineſs advance;</l>
+                        <l>
+                           <hi>O</hi> praiſe him on the high-ton'd Pipes,</l>
+                        <l>
+                           <hi>O</hi> praiſe him in the Dance.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> From loud and well-tun'd Cymbals let</l>
+                        <l>Your Solemn Thanks reſound;</l>
+                        <l>That your Devotions ſtill may be</l>
+                        <l>With choiceſt Muſick crown'd.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> Let every Thing with Breath inſpir'd,</l>
+                        <l>Their mighty Lord proclaim;</l>
+                        <l>Let Heav'n and Earth in Conſort join,</l>
+                        <l>To Praiſe His Holy Name.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="text">
+                  <div type="half_title">
+                     <pb facs="tcp:175760:31"/>
+                     <p> A DIVINE Pindarique ODE, ON The Redemption of Man.</p>
+                     <p>FITTED To the Holy Times OF ADVENT and LENT.</p>
+                     <pb facs="tcp:175760:32"/>
+                  </div>
+                  <div type="ode">
+                     <pb n="1" facs="tcp:175760:32"/>
+                     <head>ODE. ON The Redemption of Man.</head>
+                     <lg n="1">
+                        <head>I.</head>
+                        <l>AWake! awake! o my <hi>Lethargick Soul!</hi>
+                        </l>
+                        <l>And off, <hi>Sin's</hi> weighty Fetters, ſhake;</l>
+                        <l>Let not the <hi>Tyrant</hi> thus control,</l>
+                        <l>And thee its Slave, its boaſted Captive make:</l>
+                        <l>But riſe, and here o let thy unvail'd <hi>Eye</hi>
+                        </l>
+                        <l>Survey a new thy glorious Liberty.</l>
+                        <l>Lo! where the long expected <hi>Day</hi> appears,</l>
+                        <l>And the bright <hi>Sun</hi> its weſtern Journey ſteers,</l>
+                        <l>The <hi>Day!</hi> which now of laſting Peace the joyful <hi>Tydings</hi> bears!</l>
+                        <l>Hail ſacred <hi>Morn!</hi> and Thou more ſacred <hi>Light!</hi>
+                        </l>
+                        <l>VVho thus with evangelick <hi>Rays</hi>
+                        </l>
+                        <l>Inform'ſt our darken'd Sight,</l>
+                        <l>Inform'ſt our erring VVays.</l>
+                        <pb n="2" facs="tcp:175760:33"/>
+                        <l>Long in <hi>Egyptian Darkneſs</hi> have we lain,</l>
+                        <l>(Like thoſe unhappy and benighted <hi>Souls,</hi>
+                        </l>
+                        <l>VVho <hi>wand'ring</hi> live beneath the <hi>Shady Poles)</hi>
+                        </l>
+                        <l>Not knowing how, alas! or where,</l>
+                        <l>(VVhilſt nought, but <hi>Nature's Twilight</hi> did re<g ref="char:EOLhyphen"/>main,</l>
+                        <l>VVhich gave but a dim <hi>Proſpect</hi> of our future State)</l>
+                        <l>In this wild <hi>Maze</hi> our doubtful courſe to ſteer,</l>
+                        <l>Or counter-trace the ſtrict Decree of <hi>Fate.</hi>
+                        </l>
+                     </lg>
+                     <lg n="2">
+                        <head>II.</head>
+                        <l>BUt, <hi>Happy Soul!</hi> no more ſhall dread <hi>De<g ref="char:EOLhyphen"/>ſpair,</hi>
+                        </l>
+                        <l>Nor all the <hi>Powers</hi> of <hi>Hell,</hi> or <hi>Darkneſs</hi> there,</l>
+                        <l>O're-ſpread the <hi>Brightneſs</hi> of thy <hi>Hemiſphere,</hi>
+                        </l>
+                        <l>Since from on high the <hi>Day-ſpring</hi> now de<g ref="char:EOLhyphen"/>ſcends,</l>
+                        <l>And on this lower VVorld <hi>it's</hi> Glory bends;</l>
+                        <l>Since the great <hi>Will</hi> of the <hi>Jehovah</hi>'s known</l>
+                        <l>By the ſtupendious Meſſage of his <hi>Son,</hi>
+                        </l>
+                        <l>And all thoſe bleſt Effects which did depend thereon.</l>
+                        <l>
+                           <hi>Death</hi> even now, by an eternal <hi>Doom,</hi>
+                        </l>
+                        <l>Is but the <hi>Effigies</hi> of <hi>Sleep</hi> become;</l>
+                        <l>
+                           <hi>Humanity's</hi> laſt chearful <hi>Stage</hi> from <hi>this,</hi>
+                        </l>
+                        <l>To that bright <hi>World</hi> of never-fading Bliſs;</l>
+                        <pb n="3" facs="tcp:175760:33"/>
+                        <l>VVhere with our <hi>Souls,</hi> our <hi>Bodies</hi> are to be,</l>
+                        <l>From all their groſs Impuritie,</l>
+                        <l>Refin'd into a glorious <hi>Immortalitie:</hi>
+                        </l>
+                        <l>O bleſt Inverſion of our wretched State,</l>
+                        <l>And all thoſe miſerable Conſequences which on it did wait!</l>
+                     </lg>
+                     <lg n="3">
+                        <head>III.</head>
+                        <l>COme then, <hi>my Soul,</hi> and be no longer mute,</l>
+                        <l>But riſe, and take thy well ſtrung Lute,</l>
+                        <l>Set to thy <hi>Heart,</hi>
+                        </l>
+                        <l>VVith niceſt <hi>Ear,</hi> and ſtricteſt <hi>Art;</hi>
+                        </l>
+                        <l>And with the <hi>Lark,</hi> thy morning Hymns pre<g ref="char:EOLhyphen"/>pare,</l>
+                        <l>VVho now begins to mount the Air,</l>
+                        <l>To chant her early <hi>Matins</hi> there.</l>
+                        <l>
+                           <hi>O</hi> come, and with her bear a Part;</l>
+                        <l>Raiſe up the <hi>Strings,</hi> raiſe up thy <hi>Heart,</hi>
+                        </l>
+                        <l>And to the ſacred undivided <hi>Three</hi>
+                        </l>
+                        <l>Make thou thy due Return of Praiſe</l>
+                        <l>In hallow'd <hi>Lays.</hi>
+                        </l>
+                        <l>Let <hi>Father, Son,</hi> and <hi>Holy Spirit</hi> be</l>
+                        <l>The divine <hi>Gam'ut</hi> of thy <hi>Harmonie.</hi>
+                        </l>
+                        <l>In thoſe three ever-ſacred <hi>Notes,</hi> o let</l>
+                        <l>Thy grateful <hi>Ayres</hi> ſtill move, thy <hi>Hymns</hi> be ſet,</l>
+                        <l>Until at length in that bright <hi>Quire</hi> above</l>
+                        <l>(Where reigns eternal <hi>Muſick,</hi> endleſs <hi>Love)</hi>
+                        </l>
+                        <pb n="4" facs="tcp:175760:34"/>
+                        <l>They ſhall b' inſpir'd beyond all ſtudious Pains,</l>
+                        <l>VVith far more laſting, more ſeraphick ſtrains.</l>
+                     </lg>
+                     <lg n="4">
+                        <head>IV.</head>
+                        <l>SHall every <hi>Creature,</hi> every living <hi>Thing,</hi>
+                        </l>
+                        <l>Prepare to celebrate th'approaching <hi>Spring,</hi>
+                        </l>
+                        <l>And to their great <hi>Creator</hi> their due Praiſes bring;</l>
+                        <l>Shall the ſweet <hi>Birds</hi> together now repair,</l>
+                        <l>And with their rural <hi>Anthems</hi> fill the Air,</l>
+                        <l>To welcome in the new-born Year;</l>
+                        <l>Shall even <hi>Nature</hi> from <hi>Earth's</hi> naked Bed,</l>
+                        <l>Wherein ſhe ſeem'd ſo long to have lain dead,</l>
+                        <l>Unfold anew her <hi>Treaſures,</hi> and ariſe</l>
+                        <l>With all her pompous <hi>Train</hi> of <hi>Liveries,</hi>
+                        </l>
+                        <l>To pay her <hi>God</hi> her annual <hi>Sacrifice.</hi>
+                        </l>
+                        <l>Shall every <hi>Creature</hi> thus, ah! thus put on</l>
+                        <l>A chearful Look to meet th'advancing <hi>Sun;</hi>
+                        </l>
+                        <l>And ſhalt not thou, my <hi>Soul,</hi> my better <hi>Part,</hi>
+                        </l>
+                        <l>From curs'd <hi>Eſtate</hi> redeem'd, with thankful <hi>Heart,</hi>
+                        </l>
+                        <l>Join in the grateful <hi>Conſort,</hi> and preſent</l>
+                        <l>Thy conſecrated <hi>Inſtrument;</hi>
+                        </l>
+                        <l>That <hi>Inſtrument,</hi> which lay ſo long untun'd, and out of date,</l>
+                        <l>As if it had bemoan'd thy unreverſed Fate.</l>
+                        <l>For ſhame for ſhame, ſtrike the prepared <hi>String,</hi>
+                        </l>
+                        <l>Till 'tis in tune with <hi>Nature</hi> found,</l>
+                        <pb n="5" facs="tcp:175760:34"/>
+                        <l>Till with thy <hi>Praiſes</hi> thou haſt made it ſound,</l>
+                        <l>And be not Thou the only ſilent thing.</l>
+                     </lg>
+                     <lg n="5">
+                        <head>V.</head>
+                        <l>
+                           <hi>GLory</hi> be therefore to the great <hi>Three-One</hi>
+                        </l>
+                        <l>The <hi>Eather, Holy Spirit,</hi> and the <hi>Son,</hi>
+                        </l>
+                        <l>Who Sit with equal Power on th'eternal <hi>Throne.</hi>
+                        </l>
+                        <l>
+                           <hi>Glory</hi> and <hi>Praiſe</hi> be ever to the <hi>Lamb;</hi>
+                        </l>
+                        <l>
+                           <hi>Heaven's</hi> mighty <hi>Darling,</hi> and the <hi>Soul</hi>'s <hi>Deſire,</hi>
+                        </l>
+                        <l>Th'inceſſant <hi>Song</hi> of the <hi>Seraphick Quire:</hi>
+                        </l>
+                        <l>Who, from the <hi>Boſome</hi> of his <hi>Father,</hi> came,</l>
+                        <l>Did from his Majeſty a while retire,</l>
+                        <l>That he might here to wretched <hi>Mankind</hi> prove</l>
+                        <l>Thoſe long expected <hi>Bleſſings</hi> of his <hi>Love:</hi>
+                        </l>
+                        <l>Who was e're yet the World's vaſt Frame was laid;</l>
+                        <l>Who for <hi>Time's</hi> Fulneſs only ſtay'd,</l>
+                        <l>E're the' important <hi>Embaſsy</hi> he made.</l>
+                        <l>O may I thus for ever be</l>
+                        <l>(Myſterious undivided <hi>Three!)</hi>
+                        </l>
+                        <l>Employ'd in praiſing, in admiring <hi>Thee.</hi>
+                        </l>
+                        <l>May all things both in <hi>Heaven</hi> and <hi>Earth,</hi>
+                        </l>
+                        <l>Which now have either Life or Breath;</l>
+                        <l>Which either on the <hi>Ground</hi> do creep,</l>
+                        <l>Or in the <hi>Seas,</hi> or <hi>Waters</hi> keep;</l>
+                        <l>Which either in the <hi>Air</hi> do fly,</l>
+                        <l>Or in the higher <hi>Regions</hi> ly;</l>
+                        <pb n="6" facs="tcp:175760:35"/>
+                        <l>Which in the <hi>heavenly Quire</hi> are plac'd,</l>
+                        <l>And with thy glorious <hi>Preſence</hi> grac'd;</l>
+                        <l>For ever here <hi>below,</hi> and there <hi>above,</hi>
+                        </l>
+                        <l>In <hi>holy</hi> and <hi>exalted</hi> Mirth,</l>
+                        <l>Set forth thy univerſal <hi>Love,</hi>
+                        </l>
+                        <l>Till the whole <hi>Round</hi> of <hi>Heaven</hi> and <hi>Earth,</hi>
+                        </l>
+                        <l>By their according <hi>Notes,</hi> ſhall ring</l>
+                        <l>With the loud Praiſes of th' <hi>eternal King.</hi>
+                        </l>
+                     </lg>
+                     <lg n="6">
+                        <head>VI.</head>
+                        <l>O The ſtupendious <hi>State</hi> of <hi>reſtor'd Man!</hi>
+                        </l>
+                        <l>Which ſtinted <hi>Reaſon</hi> cannot ſcan;</l>
+                        <l>Nor all the Power of vain Philoſophy define,</l>
+                        <l>What is ſo far beyond the Reach of <hi>it's</hi> ſhort <hi>Sound<g ref="char:EOLhyphen"/>ing-Line!</hi>
+                        </l>
+                        <l>What could have ſo engag'd the <hi>Deity,</hi>
+                        </l>
+                        <l>(O wondrous <hi>Riddle</hi> of <hi>Divinity!)</hi>
+                        </l>
+                        <l>Thus to contract <hi>Immenſity?</hi>
+                        </l>
+                        <l>And in our narrow <hi>Nature,</hi> to deſcend</l>
+                        <l>At once a <hi>God</hi> offended, and a <hi>Friend,</hi>
+                        </l>
+                        <l>Stript of his brighteſt <hi>Glories</hi> from above,</l>
+                        <l>Where in full Luſtre <hi>He</hi> enthron'd had fat,</l>
+                        <l>Th' all-wiſe <hi>Dictator</hi> of th' <hi>Immortal State;</hi>
+                        </l>
+                        <l>
+                           <hi>Heaven's</hi> mighty <hi>Monarch</hi> of eternal Date!</l>
+                        <l>And by a new grand <hi>Charter</hi> in his <hi>Blood,</hi>
+                        </l>
+                        <l>To make us, of his <hi>Kingdom,</hi> free,</l>
+                        <l>(Which we in <hi>Sin</hi> ſo long before with-ſtood)</l>
+                        <pb n="7" facs="tcp:175760:35"/>
+                        <l>And give us there again a <hi>Property,</hi>
+                        </l>
+                        <l>But the ſoft <hi>Dictates</hi> of <hi>Paternal Love?</hi>
+                        </l>
+                     </lg>
+                     <lg n="7">
+                        <head>VII.</head>
+                        <l>'TWas <hi>Thou</hi> alone, the ſweetning <hi>Atribute!</hi>
+                        </l>
+                        <l>To whom we daily make our humble ſuit</l>
+                        <l>
+                           <hi>Thou,</hi> who to every Creature do'ſt diſpenſe</l>
+                        <l>Thy free and gentle Influence;</l>
+                        <l>'Twas <hi>Thou</hi> that did'ſt perform what was ſo long fore-told,</l>
+                        <l>In miſty <hi>Prophecies</hi> of old;</l>
+                        <l>And did'ſt, by thy prevailing Power,</l>
+                        <l>Lapſt <hi>Man</hi> again to Liberty reſtore,</l>
+                        <l>And all he loſt by <hi>Eden</hi>'s <hi>Sin</hi> before.</l>
+                        <l>
+                           <hi>Thou,</hi> matchleſs <hi>Love!</hi> wert the magnetick <hi>Spell,</hi>
+                        </l>
+                        <l>Which wrought th' amazing <hi>Miracle,</hi>
+                        </l>
+                        <l>And thus defeated the <hi>Deſigns</hi> of <hi>Hell.</hi>
+                        </l>
+                        <l>Nought cou'd divert thy penetracting <hi>Force,</hi>
+                        </l>
+                        <l>Or ſtop the <hi>Stream</hi> of thy unbounded <hi>Courſe.</hi>
+                        </l>
+                        <l>For ah! offended <hi>Love!</hi>
+                        </l>
+                        <l>When from above</l>
+                        <l>My <hi>naked Sins</hi> did for thy Vengeance call,</l>
+                        <l>At my preſumptuous diſobedient <hi>Fall;</hi>
+                        </l>
+                        <l>Even when <hi>Justice</hi> had unſheath'd her <hi>Sword,</hi>
+                        </l>
+                        <l>And waited only for the fatal <hi>Word,</hi>
+                        </l>
+                        <pb n="8" facs="tcp:175760:36"/>
+                        <l>Twas then that <hi>Thou,</hi> thy <hi>Mighty Self</hi> to ſhew,</l>
+                        <l>Didſt ſtep between, and on thy <hi>Side</hi> receive the direful <hi>Blow.</hi>
+                        </l>
+                     </lg>
+                     <lg n="8">
+                        <head>VIII.</head>
+                        <l>LO! to you ſacred <hi>Hill</hi> direct thine <hi>Eye,</hi>
+                        </l>
+                        <l>The <hi>Theatre</hi> of <hi>Wo, Mount Calvary;</hi>
+                        </l>
+                        <l>Where <hi>Death</hi> in all her pompous Horror ſits,</l>
+                        <l>And iſſues out her fatal Writs;</l>
+                        <l>VVhere <hi>She</hi> her utmoſt Empire does diſplay,</l>
+                        <l>And tho' for ever vanquiſh'd, wins the <hi>Day:</hi>
+                        </l>
+                        <l>There, o my <hi>Soul,</hi> thou may'ſt at large deſcry</l>
+                        <l>In <hi>Scenes</hi> of <hi>Blood</hi> the Holy <hi>Tragedy.</hi>
+                        </l>
+                        <l>Lo! where a gathering Stormy <hi>Mob</hi> appears,</l>
+                        <l>And by their boiſt'rous Cries untune the Spheres</l>
+                        <l>Nought through the <hi>Throng</hi> is heard, but <hi>Crucify;</hi>
+                        </l>
+                        <l>And tis concluded the great <hi>Son</hi> of <hi>God</hi> muſt dye;</l>
+                        <l>Not t' attone their Sins, but ſatisfy their <hi>Luſt,</hi>
+                        </l>
+                        <l>the <hi>Bent</hi> of their remorſeleſs Cruelty:</l>
+                        <l>VVhilſt <hi>He</hi> alas! continues ſtill t' appear</l>
+                        <l>All Love, and while <hi>They</hi> now his ling'ring Death prepare,</l>
+                        <l>The giddy <hi>Deed</hi> forgives—</l>
+                        <l>And to his enrag'd <hi>Fathers</hi> Ear</l>
+                        <l>Breaths forth their <hi>Pardon</hi> with his dying <hi>Prayer:</hi>
+                        </l>
+                        <pb n="9" facs="tcp:175760:36"/>
+                        <l>VVhilſt the aſtoniſh'd <hi>Sun</hi> with-draws <hi>its</hi> Light,</l>
+                        <l>And <hi>Nature</hi> ſickens at the dreadful Sight.</l>
+                     </lg>
+                     <lg n="9">
+                        <head>IX.</head>
+                        <l>SInce then the Chriſtian <hi>Harveſt</hi> is ſo near,</l>
+                        <l>And <hi>Grace</hi> and <hi>Mercy</hi> do ſo ripe appear,</l>
+                        <l>Be active, o my <hi>Soul!</hi> in this thy <hi>Day;</hi>
+                        </l>
+                        <l>Bind up thy <hi>Sheaves,</hi> and come away,</l>
+                        <l>And on the holy <hi>Altar</hi> lay</l>
+                        <l>The <hi>Offering</hi> of thy <hi>Firſt-Fruits,</hi>
+                        </l>
+                        <l>VVhich with thy happy <hi>Circumſtances</hi> Suits;</l>
+                        <l>For look, whereon already lyes,</l>
+                        <l>To turn 't into an acceptable <hi>Sacrifice,</hi>
+                        </l>
+                        <l>
+                           <hi>God</hi>'s all enflaming <hi>Love,</hi>
+                        </l>
+                        <l>Deſcending from above,</l>
+                        <l>VVhere with the nimble <hi>Sparks</hi> thy raviſh'd</l>
+                        <l>Thoughts may fly</l>
+                        <l>To that bleſt <hi>Place</hi> beyond the <hi>Sky,</hi>
+                        </l>
+                        <l>(VVhere heretofore in bright Celeſtial Fire</l>
+                        <l>The holy <hi>Prophet</hi> did from hence retire)</l>
+                        <l>And there for ever reap thy <hi>Joy,</hi> thy long <hi>Deſire.</hi>
+                        </l>
+                     </lg>
+                     <lg n="10">
+                        <head>X.</head>
+                        <l>BUt hold—</l>
+                        <l>Thy officious haſte thou may'ſt, my <hi>Soul!</hi> forbear;</l>
+                        <l>Nor thy <hi>Oblations</hi> now prepare,</l>
+                        <pb n="8" facs="tcp:175760:37"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="9" facs="tcp:175760:37"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="10" facs="tcp:175760:38"/>
+                        <l>Thoſe empty <hi>Types</hi> of what's already here.</l>
+                        <l>For on the gory <hi>Altar</hi> lo! where lies,</l>
+                        <l>The <hi>God</hi> of <hi>Love,</hi> whoſe ſelf a bleeding dies,</l>
+                        <l>And for thy <hi>Sins</hi> becomes both <hi>Prieſt</hi> and <hi>Sacrifice.</hi>
+                        </l>
+                        <l>O dreadful, but yet happy Sight!</l>
+                        <l>From whence alone the feeble <hi>Soul</hi> takes Flight,</l>
+                        <l>Mounts on the Wings of <hi>Faith</hi> and ſoars aright.</l>
+                        <l>Thither, with Joy, come then prepare to fly,</l>
+                        <l>(My panting <hi>Soul!)</hi>
+                        </l>
+                        <l>And in thoſe warm balſamick <hi>Streams</hi> which glide.</l>
+                        <l>So freely there from his deep wounded <hi>Side,</hi>
+                        </l>
+                        <l>Go bathe thy long contracted <hi>Leproſy;</hi>
+                        </l>
+                        <l>That <hi>Leproſy</hi> alas! of thy old <hi>Sin</hi> and <hi>Shame,</hi>
+                        </l>
+                        <l>VVhich from the Surfit of thy Parents came.</l>
+                        <l>Thither, I ſay, o thither fly with ſpeed,</l>
+                        <l>Where the <hi>Soul's</hi> bleſs'd <hi>Betheſda</hi> ſtands indeed!</l>
+                        <l>That ſacred <hi>Pool,</hi> from whoſe eternal Source,</l>
+                        <l>All healing Virtues have their proper Courſe;</l>
+                        <l>VVhere Purple <hi>Streams</hi> make glad the barren Soile</l>
+                        <l>VVith an Encreaſe beyond the Laborer's Toile;</l>
+                        <l>VVhere <hi>Tides</hi> of <hi>Bleſſings</hi> do for ever flow,</l>
+                        <l>And 'round whoſe Borders <hi>Peace</hi> and <hi>Pleaſure</hi> grow;</l>
+                        <l>VVhere all, who are diſeas'd, may freely come,</l>
+                        <l>And without <hi>Price</hi> or <hi>Trouble</hi> now have Room;</l>
+                        <l>Where, once the <hi>Heart</hi> is ſtir'd by <hi>Faith</hi> &amp; <hi>Love,</hi>
+                        </l>
+                        <l>There needs no waiting 'till it's <hi>Waters</hi> move;</l>
+                        <pb n="11" facs="tcp:175760:38"/>
+                        <l>But where the <hi>Halt</hi> th' <hi>Infected</hi> and the <hi>Blind,</hi>
+                        </l>
+                        <l>And all that enter with a willing Mind,</l>
+                        <l>Their everlaſting <hi>Cures</hi> may ſurely find.</l>
+                     </lg>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:175760:39"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
